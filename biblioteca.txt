@@ -1,0 +1,8 @@
+1,Ciccio,libro
+2,tito,enciclopedia
+3,Livio,Cucina
+4,Lara,Manuale
+5,Bibbo,libro
+6,Luca ,Giardinaggio
+7,Marco,Auto
+8,Sandro,Edilizia

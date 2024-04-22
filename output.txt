@@ -1,0 +1,12 @@
+1,Uccidete il Mockingbird,Harper Lee
+2,1984,George Orwell,420
+3,Orgoglio e Pregiudizio,Jane Austen
+4,Il Grande Gatsby,F. Scott Fitzgerald
+5,Moby Dick,Herman Melville,960
+6,Guerra e Pace,Leo Tolstoy
+7,Il Giovane Holden,J.D. Salinger,300
+8,Jane Eyre,Charlotte Brontë
+9,Fattoria degli animali,George Orwell
+10,Viaggio al centro della terra,Jules Verne
+11,Candide,Voltaire
+13,ttttttttt,aaaaaaaaaaaaa

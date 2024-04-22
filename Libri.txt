@@ -1,0 +1,11 @@
+001,Uccidete il Mockingbird,Harper Lee 
+002,1984,George Orwell,420 
+003,Orgoglio e Pregiudizio,Jane Austen 
+004,Il Grande Gatsby,F. Scott Fitzgerald 
+005,Moby Dick,Herman Melville,960 
+006,Guerra e Pace,Leo Tolstoy 
+007,Il Giovane Holden,J.D. Salinger,300 
+008,Jane Eyre,Charlotte Brontë
+009, Fattoria degli animali, George Orwell
+0010, Viaggio al centro della terra, Jules Verne
+0011, Candide, Voltaire
