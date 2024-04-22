@@ -178,7 +178,8 @@ public class Biblioteca<K, V> {
    		}
 	}   
     
-    public void menu(){
+    @SuppressWarnings("resource")
+	public void menu(){
     	
     	String menu = """
     			
@@ -282,6 +283,8 @@ public class Biblioteca<K, V> {
 				default:
 					return;        	
 				}
+				
+				l.close();
 			    
     	}
     }
